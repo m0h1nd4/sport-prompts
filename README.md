@@ -55,7 +55,7 @@ procoach-prompts/
 │   └── 💡 exercise-library.md       # Übungsdatenbank & Technik
 │
 ├── 📁 wellness/                     # Lifestyle & Recovery
-│   ├── 📋 sleep-optimizer.md        # Schlafoptimierung
+│   ├── ✅ sleep-optimizer.md        # Schlafoptimierung
 │   ├── 💡 stress-management.md      # Stressmanagement
 │   ├── 💡 habit-builder.md          # Gewohnheitsaufbau
 │   └── 📋 recovery-protocol.md      # Regeneration
@@ -86,10 +86,10 @@ procoach-prompts/
 |-----------|:------:|:---------:|:-------:|:-----:|:------:|
 | Nutrition | 1 | 0 | 4 | 0 | 5 |
 | Training | 1 | 0 | 3 | 1 | 5 |
-| Wellness | 0 | 0 | 2 | 2 | 4 |
+| Wellness | 1 | 0 | 1 | 2 | 4 |
 | Specialized | 0 | 0 | 3 | 1 | 4 |
 | Templates | 0 | 0 | 3 | 0 | 3 |
-| **Gesamt** | **2** | **0** | **15** | **4** | **21** |
+| **Gesamt** | **3** | **0** | **14** | **4** | **21** |
 
 ---
 
@@ -119,7 +119,7 @@ Der Coach führt dich durch ein strukturiertes Interview und erstellt anschließ
 | 📋 | **Competition Prep** | Wettkampfvorbereitung (Bodybuilding, Powerlifting) | Wettkampfsportler |
 | 📋 | **Beginner Guide** | Sanfter Einstieg für Anfänger | Einsteiger |
 | 📋 | **Supplement Advisor** | Evidenzbasierte Supplement-Beratung | Alle Level |
-| 📋 | **Sleep Optimizer** | Schlafqualität verbessern | Alle Level |
+| ✅ | **Sleep Optimizer** | Schlafqualität verbessern | Alle Level |
 | 📋 | **Recovery Protocol** | Regenerationsstrategien | Fortgeschrittene |
 
 ---
