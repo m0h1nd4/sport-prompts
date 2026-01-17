@@ -64,7 +64,7 @@ procoach-prompts/
 │   ├── 📋 competition-prep.md       # Wettkampfvorbereitung
 │   ├── 📋 body-recomposition.md     # Rekomposition
 │   ├── 💡 injury-rehab.md           # Verletzungs-Rehabilitation
-│   └── 📋 beginner-guide.md         # Einsteiger-Begleitung
+│   └── ✅ beginner-guide.md         # Einsteiger-Begleitung
 │
 ├── 📁 templates/                    # Vorlagen & Bausteine
 │   ├── 📋 interview-modules.md      # Interview-Bausteine
@@ -87,9 +87,9 @@ procoach-prompts/
 | Nutrition | 1 | 0 | 4 | 0 | 5 |
 | Training | 1 | 0 | 3 | 1 | 5 |
 | Wellness | 1 | 0 | 1 | 2 | 4 |
-| Specialized | 0 | 0 | 3 | 1 | 4 |
+| Specialized | 1 | 0 | 2 | 1 | 4 |
 | Templates | 0 | 0 | 3 | 0 | 3 |
-| **Gesamt** | **3** | **0** | **14** | **4** | **21** |
+| **Gesamt** | **4** | **0** | **13** | **4** | **21** |
 
 ---
 
@@ -117,7 +117,7 @@ Der Coach führt dich durch ein strukturiertes Interview und erstellt anschließ
 | ✅ | **Strength Coach** | Krafttraining & Hypertrophie | Fortgeschrittene |
 | 📋 | **Meal Planner** | Schnelle Mahlzeitenplanung | Alle Level |
 | 📋 | **Competition Prep** | Wettkampfvorbereitung (Bodybuilding, Powerlifting) | Wettkampfsportler |
-| 📋 | **Beginner Guide** | Sanfter Einstieg für Anfänger | Einsteiger |
+| ✅ | **Beginner Guide** | Sanfter Einstieg für Anfänger | Einsteiger |
 | 📋 | **Supplement Advisor** | Evidenzbasierte Supplement-Beratung | Alle Level |
 | ✅ | **Sleep Optimizer** | Schlafqualität verbessern | Alle Level |
 | 📋 | **Recovery Protocol** | Regenerationsstrategien | Fortgeschrittene |
