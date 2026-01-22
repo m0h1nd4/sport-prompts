@@ -42,7 +42,7 @@ procoach-prompts/
 │
 ├── 📁 nutrition/                    # Ernährungs-Prompts
 │   ├── ✅ nutrition-coach.md        # Umfassender Ernährungsberater
-│   ├── 📋 meal-planner.md           # Mahlzeitenplanung
+│   ├── ✅ meal-planner.md           # Mahlzeitenplanung
 │   ├── 📋 macro-calculator.md       # Makronährstoff-Berechnung
 │   ├── 📋 supplement-advisor.md     # Supplement-Beratung
 │   └── 📋 diet-analyzer.md          # Ernährungsanalyse
@@ -84,12 +84,12 @@ procoach-prompts/
 
 | Kategorie | Fertig | In Arbeit | Geplant | Ideen | Gesamt |
 |-----------|:------:|:---------:|:-------:|:-----:|:------:|
-| Nutrition | 1 | 0 | 4 | 0 | 5 |
+| Nutrition | 2 | 0 | 3 | 0 | 5 |
 | Training | 1 | 0 | 3 | 1 | 5 |
 | Wellness | 1 | 0 | 1 | 2 | 4 |
 | Specialized | 1 | 0 | 2 | 1 | 4 |
 | Templates | 0 | 0 | 3 | 0 | 3 |
-| **Gesamt** | **4** | **0** | **13** | **4** | **21** |
+| **Gesamt** | **5** | **0** | **12** | **4** | **21** |
 
 ---
 
@@ -115,7 +115,7 @@ Der Coach führt dich durch ein strukturiertes Interview und erstellt anschließ
 |:------:|--------|--------------|------------|
 | ✅ | **Nutrition Coach** | Umfassende Ernährungsberatung mit Interview | Alle Level |
 | ✅ | **Strength Coach** | Krafttraining & Hypertrophie | Fortgeschrittene |
-| 📋 | **Meal Planner** | Schnelle Mahlzeitenplanung | Alle Level |
+| ✅ | **Meal Planner** | Schnelle Mahlzeitenplanung | Alle Level |
 | 📋 | **Competition Prep** | Wettkampfvorbereitung (Bodybuilding, Powerlifting) | Wettkampfsportler |
 | ✅ | **Beginner Guide** | Sanfter Einstieg für Anfänger | Einsteiger |
 | 📋 | **Supplement Advisor** | Evidenzbasierte Supplement-Beratung | Alle Level |
