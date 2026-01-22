@@ -43,7 +43,7 @@ procoach-prompts/
 ├── 📁 nutrition/                    # Ernährungs-Prompts
 │   ├── ✅ nutrition-coach.md        # Umfassender Ernährungsberater
 │   ├── ✅ meal-planner.md           # Mahlzeitenplanung
-│   ├── 📋 macro-calculator.md       # Makronährstoff-Berechnung
+│   ├── ✅ macro-calculator.md       # Makronährstoff-Berechnung
 │   ├── 📋 supplement-advisor.md     # Supplement-Beratung
 │   └── ✅ diet-analyzer.md          # Ernährungsanalyse
 │
@@ -84,12 +84,12 @@ procoach-prompts/
 
 | Kategorie | Fertig | In Arbeit | Geplant | Ideen | Gesamt |
 |-----------|:------:|:---------:|:-------:|:-----:|:------:|
-| Nutrition | 3 | 0 | 2 | 0 | 5 |
+| Nutrition | 4 | 0 | 1 | 0 | 5 |
 | Training | 1 | 0 | 3 | 1 | 5 |
 | Wellness | 1 | 0 | 1 | 2 | 4 |
 | Specialized | 1 | 0 | 2 | 1 | 4 |
 | Templates | 0 | 0 | 3 | 0 | 3 |
-| **Gesamt** | **6** | **0** | **11** | **4** | **21** |
+| **Gesamt** | **7** | **0** | **10** | **4** | **21** |
 
 ---
 
@@ -117,6 +117,7 @@ Der Coach führt dich durch ein strukturiertes Interview und erstellt anschließ
 | ✅ | **Strength Coach** | Krafttraining & Hypertrophie | Fortgeschrittene |
 | ✅ | **Meal Planner** | Schnelle Mahlzeitenplanung | Alle Level |
 | ✅ | **Diet Analyzer** | Ernährungsanalyse & Optimierung | Alle Level |
+| ✅ | **Macro Calculator** | Präzise Makronährstoff-Berechnung | Alle Level |
 | 📋 | **Competition Prep** | Wettkampfvorbereitung (Bodybuilding, Powerlifting) | Wettkampfsportler |
 | ✅ | **Beginner Guide** | Sanfter Einstieg für Anfänger | Einsteiger |
 | 📋 | **Supplement Advisor** | Evidenzbasierte Supplement-Beratung | Alle Level |
